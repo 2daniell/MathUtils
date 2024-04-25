@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Math Utils</string>
+    <string name="title_activity_create_form">CreateFormActivity</string>
+</resources>
